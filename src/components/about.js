@@ -84,6 +84,9 @@ const Header = ({ data }) => (
                 </li>
               </ul>
             </div>
+            <div>
+              <a href="https://docs.google.com/document/d/e/2PACX-1vRR7FstYd5FVyUM6pzkPMjKnnR6FT4hs30uoTWbElSmTaI_cEJNtHuneZZJPHA_oPbLJUxQGF1yQQ-V/pub" alt="resume"<button className="resume-button">Resume</button></a>
+            </div>
           </div>
         </div>
       </div>
